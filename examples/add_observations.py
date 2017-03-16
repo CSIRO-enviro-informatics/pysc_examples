@@ -63,7 +63,7 @@ def main():
     # add our list of results to the observation
     obs.results = generated_results
     obs.save()  # Save here actually uploads the observation results to the stream. We don't get anything back.
-    # see the get_observations_from_stream example to read these observation results
+    # see the get_observations_from_stream.py example to read these observation results
 
 # script execution entrypoint
 if __name__ == "__main__":
