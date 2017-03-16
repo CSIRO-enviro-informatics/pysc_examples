@@ -1,0 +1,1 @@
+-e git+https://bitbucket.csiro.au/scm/eis/pysc.git@master#egg=pysc
